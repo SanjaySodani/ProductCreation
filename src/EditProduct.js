@@ -49,7 +49,7 @@ function EditProduct() {
 
     return (
         <div className='container'>
-            <h4 className='mt-3 mb-2 font-weight-normal'>Edit user</h4>
+            <h4 className='mt-3 mb-2 font-weight-normal'>Edit product</h4>
             <div className='row row-cols-1'>
                 <div className='col'>
                     <div className='form-group'>
